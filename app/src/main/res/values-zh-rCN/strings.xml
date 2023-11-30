@@ -1,6 +1,6 @@
 <resources>
     <!--标签-->
-    <string name="app_name">LinkHub</string>
+    <string name="app_name">WildCat Links</string>
     <string name="top_folders">置顶文件夹</string>
     <string name="folder">文件夹</string>
     <string name="folders">文件夹</string>
@@ -20,7 +20,7 @@
     <string name="issues">问题</string>
     <string name="contributors">贡献者</string>
     <string name="source_code">源代码</string>
-    <string name="sponsor">赞助商</string>
+    <string name="sponsor">捐</string>
     <string name="dark_theme">深色主题</string>
     <string name="show_counter">显示计数器</string>
     <string name="auto_saving">自动保存</string>

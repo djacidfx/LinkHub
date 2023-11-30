@@ -1,6 +1,6 @@
 <resources>
     <!--Labels-->
-    <string name="app_name">LinkHub</string>
+    <string name="app_name">WildCat Links</string>
     <string name="top_folders">Thư mục hàng đầu</string>
     <string name="folder">Thư mục</string>
     <string name="folders">Thư mục</string>
@@ -20,7 +20,7 @@
     <string name="issues">Vấn đề</string>
     <string name="contributors">Người đóng góp</string>
     <string name="source_code">Mã nguồn</string>
-    <string name="sponsor">Nhà tài trợ</string>
+    <string name="sponsor">Quyên tặng</string>
     <string name="dark_theme">Chủ đề tối</string>
     <string name="show_counter">Hiển thị bộ đếm</string>
     <string name="auto_saving">Tự động lưu</string>

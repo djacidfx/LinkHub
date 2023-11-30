@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--Labels-->
-    <string name="app_name">حفظ الروابط</string>
+    <string name="app_name">WildCat Links</string>
     <string name="top_folders">أفضل المجلدات</string>
     <string name="folder">مجلد</string>
     <string name="folders">مجلدات</string>
@@ -21,7 +21,7 @@
     <string name="issues">المشاكل</string>
     <string name="contributors">المشاركين</string>
     <string name="source_code">الكود المصدري</string>
-    <string name="sponsor">الدعم</string>
+    <string name="sponsor">يتبرع</string>
     <string name="dark_theme">مظهر داكن</string>
     <string name="show_counter">أظهار العداد</string>
     <string name="auto_saving">الحفظ الألي</string>

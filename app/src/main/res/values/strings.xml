@@ -1,6 +1,6 @@
 <resources>
     <!--Labels-->
-    <string name="app_name">LinkHub</string>
+    <string name="app_name">WildCat Links</string>
     <string name="top_folders">Top Folders</string>
     <string name="folder">Folder</string>
     <string name="folders">Folders</string>
@@ -20,7 +20,7 @@
     <string name="issues">Issues</string>
     <string name="contributors">Contributors</string>
     <string name="source_code">Source code</string>
-    <string name="sponsor">Sponsor</string>
+    <string name="sponsor">Donate</string>
     <string name="dark_theme">Dark Theme</string>
     <string name="show_counter">Show counter</string>
     <string name="auto_saving">Auto saving</string>

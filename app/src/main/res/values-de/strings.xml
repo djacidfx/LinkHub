@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--Labels-->
-    <string name="app_name">LinkHub</string>
+    <string name="app_name">WildCat Links</string>
     <string name="top_folders">Top-Ordner</string>
     <string name="folder">Ordner</string>
     <string name="folders">Ordner</string>
@@ -21,7 +21,7 @@
     <string name="issues">Probleme</string>
     <string name="contributors">Mitwirkende</string>
     <string name="source_code">Quellcode</string>
-    <string name="sponsor">Sponsor</string>
+    <string name="sponsor">Spenden</string>
     <string name="dark_theme">Dunkles Design</string>
     <string name="show_counter">Zähler anzeigen</string>
     <string name="auto_saving">Auto speicherung</string>
